@@ -9,14 +9,14 @@
         <div class="logo">
             <a href="index.php">
                 
-<h3>Tienda Virtual Platea21</h3>
+<h3>Ecotech-Pimocha</h3>
             </a>
         </div><!-- /.logo -->
     
     </div><!-- /.footer-logo -->
 
      <div class="module-body m-t-20">
-        <p class="about-us"> Platea21, tienda virtual en php & mysql (Código Abierto).</p>
+        <p class="about-us"> Ecotech, venta de dispositivos y suministros electrónicos.</p>
     
         <div class="social-icons">
             
@@ -44,8 +44,8 @@
 			<table class="table">
 				<tbody>
 					<tr><td>Lunes-Viernes:</td><td class="pull-right">08:00 a 18:00 hrs</td></tr>
-					<tr><td>Sábados:</td><td class="pull-right">09:00 a 20:00</td></tr>
-					<tr><td>Domingos:</td><td class="pull-right">10:00 a 20:00</td></tr>
+					<tr><td>Sábados:</td><td class="pull-right">08:00 a 13:00 hrs</td></tr>
+					<tr><td>Domingos:</td><td class="pull-right">No hay atención</td></tr>
 				</tbody>
 			</table>
 		</div><!-- /.table-responsive -->
@@ -70,7 +70,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>Tacna, Perú</p>
+                    <p>Jaramijo, Ecuador</p>
                 </div>
             </li>
 
@@ -82,7 +82,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>(+51) 948445199<br>(+51) 948445199</p>
+                    <p>(+593) 988757368</p>
                 </div>
             </li>
 
@@ -94,7 +94,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <span><a href="#">gorchor@gmail.com</a></span>
+                    <span><a href="https://mail.google.com/mail/u/0/?ogbl">ecotech.tecnology@gmail.com</a></span>
                 </div>
             </li>
               

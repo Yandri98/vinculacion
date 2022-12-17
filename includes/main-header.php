@@ -19,8 +19,9 @@
 					<!-- ============================================================= LOGO ============================================================= -->
 <div class="logo">
 	<a href="index.php">
+		<img src="img/dulio.gif" width="150" height="200">
 		
-		<h2>Tienda Virtual Platea21</h2>
+		<h2>Ecotech-Pimocha</h2>
 
 	</a>
 </div>		

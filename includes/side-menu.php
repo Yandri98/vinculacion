@@ -4,7 +4,7 @@
   
         <ul class="nav">
             <li class="dropdown menu-item">
-              <?php $sql=mysqli_query($con,"select id,categoryName  from category");
+              <?php $sql=mysqli_query($con,"select *  from category where id = 4");
 while($row=mysqli_fetch_array($sql))
 {
     ?>

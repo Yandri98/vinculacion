@@ -17,7 +17,8 @@
 				<a href="index.php" data-hover="dropdown" class="dropdown-toggle">Inicio</a>
 				
 			</li>
-              <?php $sql=mysqli_query($con,"select id,categoryName  from category limit 6");
+           
+              <?php $sql=mysqli_query($con,"select *  from category where id = 4 limit 6"); // los datos se extraen directamente  de la DB, para luego mostrarlos
 while($row=mysqli_fetch_array($sql))
 {
     ?>
@@ -25,6 +26,14 @@ while($row=mysqli_fetch_array($sql))
 			<li class="dropdown yamm">
 				<a href="category.php?cid=<?php echo $row['id'];?>"> <?php echo $row['categoryName'];?></a>
 			
+			</li>
+            <li class="active dropdown yamm-fw">
+				<a href="#" data-hover="dropdown" class="dropdown-toggle">Información</a>
+				
+			</li>
+            <li class="active dropdown yamm-fw">
+				<a href="gerente.php" data-hover="dropdown" class="dropdown-toggle">Información del Gerente</a>
+				
 			</li>
 			<?php } ?>
 
